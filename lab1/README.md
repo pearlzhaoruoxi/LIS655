@@ -29,20 +29,20 @@ Not all objects will be accessible with all tools.
 ### macOS
 1. Download the most recent version from [this page](http://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/), unzip the package, and open it in a Finder window
 2. Open a terminal window
-** open Finder, go to Applications, then Utilities, and open Terminal
-** press ⌘ + spacebar, and search for Terminal and press enter.
+    * open Finder, go to Applications, then Utilities, and open Terminal
+    * press ⌘ + spacebar, and search for Terminal and press enter.
 3. In Terminal, navigate to your unzipped package
-** type `cd` and a space, drag the unzipped folder's icon from Finder to the Terminal, and press enter
+    * type `cd` and a space, drag the unzipped folder's icon from Finder to the Terminal, and press enter
 4. In Terminal, make the program executable. Copy-paste and press enter for each of the following lines
-** `chmod +x droid.sh`
-** `chmod +x droid-ui-6.4.jar`
-** `chmod +x droid-command-line-6.4.jar`
+    * `chmod +x droid.sh`
+    * `chmod +x droid-ui-6.4.jar`
+    * `chmod +x droid-command-line-6.4.jar`
 5. In Terminal, start the program by typing `./droid.sh`
-** If you get an error about Java, you'll have to [install Java](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html). After installing Java, try step 5 again.
-** For other errors, copy-paste your terminal in an email to me.
+    * If you get an error about Java, you'll have to [install Java](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html). After installing Java, try step 5 again.
+    * For other errors, copy-paste your terminal in an email to me.
 
 ### Windows
 1. Download the most recent version from [this page](http://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/), unzip the package, and open it.
 2. Double-click the `droid.bat` file.
-** If you get an error about Java, you'll have to [install Java](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html). After installing Java, try step 5 again.
-** For other errors, please email to me.
+    * If you get an error about Java, you'll have to [install Java](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html). After installing Java, try step 5 again.
+    * For other errors, please email to me.
