@@ -38,6 +38,7 @@ Not all objects will be accessible with all tools.
     * `chmod +x droid-ui-6.4.jar`
     * `chmod +x droid-command-line-6.4.jar`
 5. In Terminal, start the program by typing `./droid.sh`
+    * If you get an error about JDK, you'll have to [install JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). After installing JDK, try step 5 again.
     * If you get an error about Java, you'll have to [install Java](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html). After installing Java, try step 5 again.
     * For other errors, copy-paste your terminal in an email to me.
 
