@@ -1,4 +1,4 @@
-#Digital Collection Proposal
+# Digital Collection Proposal
 Nick Krabbenhoeft
 2017-09-14
 
