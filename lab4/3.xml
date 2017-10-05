@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dfxml 
+  xmlns='http://www.forensicswiki.org/wiki/Category:Digital_Forensics_XML' 
+  xmlns:deep='http://md5deep.sourceforge.net/md5deep/' 
+  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' 
+  xmlns:dc='http://purl.org/dc/elements/1.1/' version='1.0'>
+  <deep:configuration>
+    <algorithms>
+      <algorithm name='md5' enabled='1'/>
+      <algorithm name='sha1' enabled='0'/>
+      <algorithm name='sha256' enabled='0'/>
+      <algorithm name='tiger' enabled='0'/>
+      <algorithm name='whirlpool' enabled='0'/>
+      <algorithm name='' enabled='0'/>
+    </algorithms>
+  </deep:configuration>
+  <metadata>
+    <dc:type>Hash List</dc:type>
+  </metadata>
+  <creator version='1.0'>
+    <program>MD5DEEP</program>
+    <version>4.4</version>
+    <build_environment>
+      <compiler>GCC 4.2</compiler>
+    </build_environment>
+    <execution_environment>
+      <os_sysname>Darwin</os_sysname>
+      <os_release>13.1.0</os_release>
+      <os_version>Darwin Kernel Version 13.1.0: Thu Jan 16 19:40:37 PST 2014; root:xnu-2422.90.20~2/RELEASE_X86_64</os_version>
+      <host>ingest-11.cunytv.xsan</host>
+      <arch>x86_64</arch>
+      <command_line>md5deep -drl .</command_line>
+      <uid>1100</uid>
+      <start_time>2014-07-28T14:18:33Z</start_time>
+    </execution_environment>
+  </creator>
+  <fileobject>
+    <filename>./access/images/PSAAHARES30_1.tiff</filename>
+    <filesize>6267142</filesize>
+    <mtime>2014-07-28T14:17:48Z</mtime>
+    <ctime>2014-07-28T14:17:48Z</ctime>
+    <atime>2014-07-28T14:18:33Z</atime>
+    <hashdigest type='MD5'>03a98c8f9950d3d58a8fef14fc3239dd</hashdigest>
+  </fileobject>
+  <fileobject>
+    <filename>./access/images/PSAAHARES30_10.tiff</filename>
+    <filesize>6269010</filesize>
+    <mtime>2014-07-28T14:18:02Z</mtime>
+    <ctime>2014-07-28T14:18:02Z</ctime>
+    <atime>2014-07-28T14:18:33Z</atime>
+    <hashdigest type='MD5'>5d5b67181f41175ae7e4517bf51e3dbc</hashdigest>
+  </fileobject>
+  <fileobject>
+    <filename>./access/images/PSAAHARES30_9.tiff</filename>
+    <filesize>6267853</filesize>
+    <mtime>2014-07-28T14:18:01Z</mtime>
+    <ctime>2014-07-28T14:18:01Z</ctime>
+    <atime>2014-07-28T14:18:33Z</atime>
+    <hashdigest type='MD5'>6aa592925c84e01099bd2b9480b63977</hashdigest>
+  </fileobject>
+  <fileobject>
+    <filename>./access/images/PSAAHARES30_5.tiff</filename>
+    <filesize>6265614</filesize>
+    <mtime>2014-07-28T14:17:54Z</mtime>
+    <ctime>2014-07-28T14:17:54Z</ctime>
+    <atime>2014-07-28T14:18:33Z</atime>
+    <hashdigest type='MD5'>33e8a623d5595d2668419a8da104bfea</hashdigest>
+  </fileobject>
+  <fileobject>
+    <filename>./access/images/PSAAHARES30_2.tiff</filename>
+    <filesize>6268480</filesize>
+    <mtime>2014-07-28T14:17:49Z</mtime>
+    <ctime>2014-07-28T14:17:49Z</ctime>
+    <atime>2014-07-28T14:18:33Z</atime>
+    <hashdigest type='MD5'>e4f2eca01587b7aeb2b22d18362dbf47</hashdigest>
+  </fileobject>
+  <fileobject>
+    <filename>./access/images/PSAAHARES30_7.tiff</filename>
+    <filesize>6004027</filesize>
+    <mtime>2014-07-28T14:17:57Z</mtime>
+    <ctime>2014-07-28T14:17:57Z</ctime>
+    <atime>2014-07-28T14:18:33Z</atime>
+    <hashdigest type='MD5'>2d3b9ae82eb78f33b24f8841bf0c9797</hashdigest>
+  </fileobject>
+  <fileobject>
+    <filename>./access/images/PSAAHARES30_3.tiff</filename>
+    <filesize>6276034</filesize>
+    <mtime>2014-07-28T14:17:51Z</mtime>
+    <ctime>2014-07-28T14:17:51Z</ctime>
+    <atime>2014-07-28T14:18:33Z</atime>
+    <hashdigest type='MD5'>20776a8b79762152afc8c830aac555e0</hashdigest>
+  </fileobject>
+  <fileobject>
+    <filename>./access/images/PSAAHARES30_6.tiff</filename>
+    <filesize>6001647</filesize>
+    <mtime>2014-07-28T14:17:56Z</mtime>
+    <ctime>2014-07-28T14:17:56Z</ctime>
+    <atime>2014-07-28T14:18:33Z</atime>
+    <hashdigest type='MD5'>2b46d7d18742a8e09ebfaab24ebf23e7</hashdigest>
+  </fileobject>
+  <fileobject>
+    <filename>./access/images/PSAAHARES30_8.tiff</filename>
+    <filesize>6254000</filesize>
+    <mtime>2014-07-28T14:17:59Z</mtime>
+    <ctime>2014-07-28T14:17:59Z</ctime>
+    <atime>2014-07-28T14:18:33Z</atime>
+    <hashdigest type='MD5'>a6610867e7b49090e09c25178fa06305</hashdigest>
+  </fileobject>
+  <fileobject>
+    <filename>./access/images/PSAAHARES30_4.tiff</filename>
+    <filesize>6265273</filesize>
+    <mtime>2014-07-28T14:17:52Z</mtime>
+    <ctime>2014-07-28T14:17:52Z</ctime>
+    <atime>2014-07-28T14:18:33Z</atime>
+    <hashdigest type='MD5'>07e5519be4ebe3ef902a045a41023923</hashdigest>
+  </fileobject>
+  <fileobject>
+    <filename>./access/dvd/PSAAHARES30.iso</filename>
+    <filesize>22872064</filesize>
+    <mtime>2014-07-28T14:17:46Z</mtime>
+    <ctime>2014-07-28T14:17:46Z</ctime>
+    <atime>2014-07-28T14:18:24Z</atime>
+    <hashdigest type='MD5'>33f2905865b607afe45ec345d99a02ac</hashdigest>
+  </fileobject>
+  <fileobject>
+    <filename>./access/youtube_up/PSAAHARES30.mp4</filename>
+    <filesize>49384521</filesize>
+    <mtime>2014-07-28T14:18:23Z</mtime>
+    <ctime>2014-07-28T14:18:23Z</ctime>
+    <atime>2014-07-28T14:18:33Z</atime>
+    <hashdigest type='MD5'>dfa906ff9292f52c7dca3a0f76d827ed</hashdigest>
+  </fileobject>
+  <fileobject>
+    <filename>./service/PSAAHARES30.mov</filename>
+    <filesize>200726508</filesize>
+    <mtime>2014-07-28T14:17:38Z</mtime>
+    <ctime>2014-07-28T14:17:38Z</ctime>
+    <atime>2014-07-28T14:18:33Z</atime>
+    <hashdigest type='MD5'>a39a33c4a5969b436f31fdd485f3d68b</hashdigest>
+  </fileobject>
+  <fileobject>
+    <filename>./PSAAHARES30.mov</filename>
+    <filesize>200695963</filesize>
+    <mtime>2014-07-28T14:13:22Z</mtime>
+    <ctime>2014-07-28T14:17:16Z</ctime>
+    <atime>2014-07-28T14:18:33Z</atime>
+    <hashdigest type='MD5'>7db9daec906488d8408928862e2bccf8</hashdigest>
+  </fileobject>
+  <rusage>
+    <utime>1.360999</utime>
+    <stime>0.209783</stime>
+    <maxrss>1462272</maxrss>
+    <minflt>556</minflt>
+    <majflt>0</majflt>
+    <nswap>0</nswap>
+    <inblock>0</inblock>
+    <oublock>0</oublock>
+    <clocktime>0.570094</clocktime>
+  </rusage>
+</dfxml>
