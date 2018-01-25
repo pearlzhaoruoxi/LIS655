@@ -2,13 +2,14 @@
 In this lab you will analyze a set of digital objects and determine what they are and how they are different.
 
 ## Recommended Tools
-In order to identify these objects, you can use any of the tools below. The only tool that is necessary is DROID. To install DROID see instructions at the bottom of this document.
+In order to identify these objects, you can use any of the tools below. The only tool that is necessary is the Siegfried [online interface](https://www.itforarchivists.com/siegfried). If you'd like to install, DROID see instructions at the bottom of this document.
 
 Not all objects will be accessible with all tools.
 
 ### Format Identification
-* [DROID](https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/)
 * [Siegfried](https://github.com/richardlehane/siegfried)
+* [DROID](https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/)
+
 
 ### Format Knowledgebase
 * [PRONOM](https://www.nationalarchives.gov.uk/PRONOM/BasicSearch/proBasicSearch.aspx?status=new)
@@ -24,7 +25,7 @@ Not all objects will be accessible with all tools.
 * Text Editor (Sublime Text, Atom, TextEdit, Notepad)
 * File Browser (Finder, File Explorer)
 
-## Using DROID
+## Installing DROID
 
 ### macOS
 1. Download the most recent version from [this page](http://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/), unzip the package, and open it in a Finder window
@@ -47,3 +48,7 @@ Not all objects will be accessible with all tools.
 2. Double-click the `droid.bat` file.
     * If you get an error about Java, you'll have to [install Java](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html). After installing Java, try step 5 again.
     * For other errors, please email to me.
+    
+## Installing Siegfried
+1. With homebrew installed, open a terminal windows
+    * `brew install richardlehane/digipres/siegfried`
